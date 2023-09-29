@@ -3,10 +3,10 @@ project:
   output-dir: _site
   
 website:
-  title: "Website_Title"
-  description: "Some description"
-  site-url: https://github.com/wiesehahn/quarto_website_template/index.html
-  repo-url: https://github.com/wiesehahn/quarto_website_template
+  title: "Lidar Forestry Review"
+  description: "Documentation about lidar use cases related to forestry"
+  site-url: https://github.com/wiesehahn/lidar_forestry_review/index.html
+  repo-url: https://github.com/wiesehahn/lidar_forestry_review
   favicon: /images/favicon.png
   open-graph: true
   twitter-card:
@@ -42,7 +42,7 @@ website:
     left: "© 2023, [Jens Wiesehahn](https://wiesehahn.github.io/)"
     right:
       - icon: github
-        href: https://github.com/wiesehahn/quarto_website_template
+        href: https://github.com/wiesehahn/lidar_forestry_review
 
 format:
   html: # (https://quarto.org/docs/reference/formats/html.html)
